@@ -18,3 +18,10 @@ Azure Maps Custom Connector is a **Power Platform** custom connector that integr
 ### 1️⃣ Download Unmanaged Solution
 ```sh
 AzureMapsConnectorSolution_1_0_0_2.zip
+```
+
+### 🔄 Import the Solution into Power Platform
+- Open Power Apps or Power Automate Home Page.
+- Navigate to Solutions > Import Solution.
+- Click Browse, select AzureMapsConnectorSolution_1_0_0_2.zip, and upload.
+- Click Next and follow the installation step
