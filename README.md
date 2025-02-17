@@ -17,6 +17,6 @@ Azure Maps Custom Connector is a **Power Platform** custom connector that integr
 
 ## Installation  
 
-### 1️⃣ Clone this repository  
+### 1️⃣ Download Unmanaged Solution
 ```sh
-git clone https://github.com/PowerPlatformNerd/Azure-Maps-Custom-Connector.git
+AzureMapsConnectorSolution_1_0_0_2.zip
