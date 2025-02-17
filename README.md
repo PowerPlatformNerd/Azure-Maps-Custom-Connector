@@ -12,7 +12,7 @@ Azure Maps Custom Connector is a **Power Platform** custom connector that integr
 
 ## Prerequisites  
 - 🔹 **Azure Maps Account** with an active subscription.  
-- 🔹 **Power Platform environment** (Power Automate, Power Apps, or Logic Apps).  
+- 🔹 **Power Platform environment** (Power Automate or Power Apps).  
 - 🔹 **Azure Maps API Key** for authentication.  
 
 ## Installation  
